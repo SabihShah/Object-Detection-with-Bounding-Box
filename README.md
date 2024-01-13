@@ -9,8 +9,9 @@ It contains 9724 images divided into train, valid and test folders.
 
 <div align="center">
   <a href="https://github.com/SabihShah/Object-Detection-with-Bounding-Box">
-    <img src="images/overview.png">
+    <img src="images/overview.png" width="300" height="300">
   </a>
+</div>
 
 ## Built With
 - Tensorflow
@@ -25,5 +26,5 @@ It contains 9724 images divided into train, valid and test folders.
 pip install requirements.txt
 ```
 ```sh
-git clone https://github.com/SabihShah/Object-Detection-with-Bounding-Box.git 
+git clone https://github.com/SabihShah/Object-Detection-with-Bounding-Box.git
 ```
