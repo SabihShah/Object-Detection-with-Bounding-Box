@@ -28,3 +28,6 @@ pip install requirements.txt
 ```sh
 git clone https://github.com/SabihShah/Object-Detection-with-Bounding-Box.git
 ```
+The model is evaluated on IoU (Intersection over Union) metric which measures the overlap between predicted bounding boxes and ground truth boxes.
+
+$$ IoU = \frac{\text{Area of overlap}}{\text{Area of union}}$$
