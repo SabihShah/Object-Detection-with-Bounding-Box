@@ -12,7 +12,6 @@ It contains 9724 images divided into train, valid and test folders.
     <img src="images/overview.png">
   </a>
 
-
 ## Built With
 - Tensorflow
 - Keras
